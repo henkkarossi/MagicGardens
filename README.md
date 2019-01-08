@@ -1,5 +1,5 @@
 # MagicGardens
-This is my still ongoing Mobile game project for target audience of 3 - 10 year old girls about building your dream garden and getting different Unicorns species to visit there. There is still lot to be done but this is the base of the game.
+This is my still ongoing Mobile game project for target audience of 3 - 10 year old girls about building your dream garden and getting different Unicorns species to visit there. There is still lot to be done but this is the base of the game. Game still uses placeholder graphics so the look of the game is nowhere near final.
 
 now consists of features:
 - Add 3 different garden items and decorate your garden with them.
