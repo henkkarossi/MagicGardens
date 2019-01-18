@@ -50,6 +50,10 @@ public class Slot : MonoBehaviour {
             }
             GameManager.instance.happiness -= GetPrice();
         }
+        else 
+        {
+            print("not enought money");
+        }
     }
 
    int GetPrice()

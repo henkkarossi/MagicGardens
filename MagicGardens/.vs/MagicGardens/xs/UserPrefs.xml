@@ -1,15 +1,13 @@
-﻿<Properties StartupConfiguration="{4F4FF5D8-6D19-32F2-3BF8-AA8EED899197}|">
-  <MonoDevelop.Ide.ItemProperties.MagicGardens PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item.cs">
+﻿<Properties StartupConfiguration="{A8701196-C22C-16BA-32DF-B8284C5EAD72}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unicorn.cs">
     <Files>
       <File FileName="Assets/Scripts/GameManager.cs" Line="29" Column="30" />
       <File FileName="Assets/Scripts/Shop.cs" Line="7" Column="32" />
-      <File FileName="Assets/Scripts/ItemList.cs" Line="70" Column="5" />
+      <File FileName="Assets/Scripts/ItemList.cs" Line="70" Column="1" />
       <File FileName="Assets/Scripts/Item.cs" Line="76" Column="56" />
-      <File FileName="Assets/Scripts/InputManager.cs" Line="90" Column="13" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="90" Column="1" />
       <File FileName="Assets/Scripts/Slot.cs" Line="17" Column="93" />
-      <File FileName="Assets/Scripts/Unicorn.cs" Line="28" Column="149" />
+      <File FileName="Assets/Scripts/Unicorn.cs" Line="9" Column="1" />
       <File FileName="Assets/Scripts/OrderPerspective.cs" Line="48" Column="119" />
       <File FileName="Assets/Scripts/StartMenu.cs" Line="13" Column="38" />
       <File FileName="Assets/Scripts/TimeManager.cs" Line="83" Column="48" />
@@ -19,12 +17,14 @@
       <File FileName="Assets/Scripts/ViewOnlyInEditor.cs" Line="13" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MagicGardens PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/avuser/Desktop/HenrikRossiFiles/MagicGardens/Assets/Scripts/Item.cs" relfile="Assets/Scripts/Item.cs" line="43" column="11" />
+      <Breakpoint file="/Users/avuser/Documents/GitHub/MagicGardens/MagicGardens/Assets/Scripts/Item.cs" relfile="Assets/Scripts/Item.cs" line="43" column="11" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
